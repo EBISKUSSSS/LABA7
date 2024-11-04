@@ -1,0 +1,14 @@
+C:\Users\vlady\OneDrive\Робочий стіл\MultitreadingL7\bin\Debug\net8.0\MultitreadingL7.exe
+C:\Users\vlady\OneDrive\Робочий стіл\MultitreadingL7\bin\Debug\net8.0\MultitreadingL7.deps.json
+C:\Users\vlady\OneDrive\Робочий стіл\MultitreadingL7\bin\Debug\net8.0\MultitreadingL7.runtimeconfig.json
+C:\Users\vlady\OneDrive\Робочий стіл\MultitreadingL7\bin\Debug\net8.0\MultitreadingL7.dll
+C:\Users\vlady\OneDrive\Робочий стіл\MultitreadingL7\bin\Debug\net8.0\MultitreadingL7.pdb
+C:\Users\vlady\OneDrive\Робочий стіл\MultitreadingL7\obj\Debug\net8.0\MultitreadingL7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vlady\OneDrive\Робочий стіл\MultitreadingL7\obj\Debug\net8.0\MultitreadingL7.AssemblyInfoInputs.cache
+C:\Users\vlady\OneDrive\Робочий стіл\MultitreadingL7\obj\Debug\net8.0\MultitreadingL7.AssemblyInfo.cs
+C:\Users\vlady\OneDrive\Робочий стіл\MultitreadingL7\obj\Debug\net8.0\MultitreadingL7.csproj.CoreCompileInputs.cache
+C:\Users\vlady\OneDrive\Робочий стіл\MultitreadingL7\obj\Debug\net8.0\MultitreadingL7.dll
+C:\Users\vlady\OneDrive\Робочий стіл\MultitreadingL7\obj\Debug\net8.0\refint\MultitreadingL7.dll
+C:\Users\vlady\OneDrive\Робочий стіл\MultitreadingL7\obj\Debug\net8.0\MultitreadingL7.pdb
+C:\Users\vlady\OneDrive\Робочий стіл\MultitreadingL7\obj\Debug\net8.0\MultitreadingL7.genruntimeconfig.cache
+C:\Users\vlady\OneDrive\Робочий стіл\MultitreadingL7\obj\Debug\net8.0\ref\MultitreadingL7.dll
